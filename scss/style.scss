@@ -1,2 +1,19 @@
 
 @use 'custom';
+
+// components
+@use 'components/animations';
+@use 'components/buttons';
+@use 'components/mixins';
+@use 'components/typography';
+
+// sections
+@use 'sections/navbar';
+@use 'sections/intro-section';
+@use 'sections/companies-section';
+@use 'sections/services-section';
+@use 'sections/testimonials-section';
+@use 'sections/faq-section';
+@use 'sections/portfolio-section';
+@use 'sections/get-started-section';
+@use 'sections/footer';
