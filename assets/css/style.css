@@ -11135,6 +11135,8 @@ textarea.form-control-lg {
   margin: 0;
   border: 0.1rem solid rgba(255, 255, 255, 0.6);
   background-color: #fff;
+  transition-duration: 1000ms;
+  transition-property: all;
 }
 @media (max-width: 575.98px) {
   .btn-rounded {
@@ -11223,7 +11225,7 @@ textarea.form-control-lg {
 }
 @media (min-width: 992px) {
   .display-3--title {
-    font-size: 1.8rem;
+    font-size: 2.3rem;
   }
 }
 
@@ -11307,11 +11309,11 @@ textarea.form-control-lg {
   margin-top: 0;
 }
 .services__content p {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 @media (min-width: 992px) {
   .services__content p {
-    font-size: 1rem;
+    font-size: 1.3rem;
   }
 }
 @media (min-width: 992px) {
