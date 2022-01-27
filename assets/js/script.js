@@ -7,7 +7,7 @@ const lightbox = GLightbox({
 });
 
 AOS.init({
-    offset: 200, // offset (in px) from the original trigger point
+    offset: 150, // offset (in px) from the original trigger point
     duration: 1500, // values from 0 to 3000, with step 50ms
     once: false, // whether animation should happen only once - while scrolling down
     mirror: true, // whether elements should animate out while scrolling past them
